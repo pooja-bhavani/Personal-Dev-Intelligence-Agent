@@ -4,9 +4,7 @@
 
 This application provides a daily briefing dashboard that aggregates your GitHub activity and npm package data into a single view, helping you prioritize work, track repository health, and monitor CI/CD status — all powered by Coral's unified SQL interface.
 
-![Dev First Mate UI](<img width="1467" height="886" alt="image" src="https://github.com/user-attachments/assets/37aad76b-6974-4c1b-b854-d1dc59233060" />
-)
-
+<img width="1467" height="886" alt="image" src="https://github.com/user-attachments/assets/6676cddd-ed86-4851-a0fd-626048e29818" />
 
 ## What This App Does
 
